@@ -1,2 +1,2 @@
 # ReactJsApplication
-Demo ReactJs application for practicing
+Axios used for API requests handling
